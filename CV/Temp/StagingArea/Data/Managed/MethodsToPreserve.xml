@@ -1,0 +1,15 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="Card">
+			<method name="OnXDown"/>
+			<method name="OnXDown"/>
+			<method name="OnXDown"/>
+		</type>
+		<type fullname="CountSkills">
+			<method name="OnReplayDown"/>
+		</type>
+		<type fullname="UIFind">
+			<method name="DownGo"/>
+		</type>
+	</assembly>
+</linker>
